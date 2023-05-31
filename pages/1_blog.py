@@ -131,6 +131,9 @@ blog="""
     color: #fff;
     padding: 0.5em 1em;
     }
+    .devclr {
+    color: red;
+    }
 
     </style>
     
@@ -138,7 +141,7 @@ blog="""
     <section>
     <h1>Food</h1>
     <div class="content">
-        <p>Welcome to our food recommendations website, where culinary adventures await! Whether you're a seasoned foodie or simply seeking new flavors to tantalize your taste buds, we're here to guide you on a mouthwatering journey through the diverse and delectable world of cuisine.<br>Developed for a Friend❤️.</p><a href="">Learn more</a>
+        <p>Welcome to our food recommendations website, where culinary adventures await! Whether you're a seasoned foodie or simply seeking new flavors to tantalize your taste buds, we're here to guide you on a mouthwatering journey through the diverse and delectable world of cuisine.<br><span class="devclr">Developed for a Friend ❤️</span>.</p><a href="">Learn more</a>
     </div>
     <div class="img"><img src="https://spaceshuttle-sbm-1-d2725437.deta.app/cdn/2tuan1273rfv.jpg"/><a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;" href="#" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Anders Jildén"><span style="display:inline-block;padding:2px 3px;"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px;">Akshay Rao</span></a></div>
     </section>
